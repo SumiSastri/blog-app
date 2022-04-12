@@ -10,24 +10,34 @@ export default function Home() {
   return (
     <div className="card">
 
-      <h2>Prema Sastri (1932-2017)</h2>
+      <h2>A pioneering Indian author writing in English</h2>
+      <br/>
+      <hr/>
+      <br/>
       <h3>Author's statement</h3>
 
-<p>“I write because I am haunted by characters and situations that demand I present them to the world. They often try to take over my life.” 
+<p>We are heroic, cowardly, hurt, passionate, kind or cruel at different moments.</p>
+<p>We know very little about ourselves, and still less about others.</p> 
+  
+<p>We shout at the clerk behind the counter, not knowing he has recently lost a child. We imagine we can do the impossible and end up living with unfulfilled dreams.</p>
+    
+<p>I describe people caught in difficult situations and the manner in which they have reacted. My stories are about insights and perceptions rather than high drama. They are about people we have met without knowing the rich complexity of their lives.”</p>
 
-<em>Prema Sastri, 2017.</em>
+<p><em>Prema Sastri – Preface, A Fine Gift From Lakshmi, 2007</em></p>
 
-</p>
 
-<p>Prema’s stories have inspired and enraged people in equal measure. Her stories are written with the view to free the mind from routine and monotony and act as a catalyst for debate and discussion on rigidly held views and opinions. 
 
-</p>
-<p>After years of pursuing different directions,  she did found her way, as a writer. The journey from scribbles as a child, was a dream fulfilled at Chatham College, Pittsburgh where she studied creative writing. She was encouraged when her story, A Paper Package, won the best writing award from The Minor Bird, the Chatham College magazine.Wider recognition, soon followed when her story, The Last Time won a prize from The Writer’s Club, Pittsburgh.
+<p>Prema’s stories have inspired and enraged people in equal measure. Her stories are written with the view to free the mind from routine and monotony and act as a catalyst for debate and discussion on rigidly held views and opinions.</p>
+<p>After years of pursuing different directions, she found her way as a writer. The journey from scribbles as a child, was a dream fulfilled at Chatham College, Pittsburgh where she studied creative writing. She was encouraged when her story, <em>A Paper Package</em>, won the best writing award from <em>The Minor Bird</em>, the Chatham College magazine. Wider recognition soon followed when her story. <em>The Last Time</em>, won a prize from <em>The Writer’s Club</em>,, Pittsburgh.</p> 
 
-</p> <p>On her return to India, in the 1950s she wrote prose and short stories, contributing over 200 feature articles to newspapers and magazines.As the drama critic, for The Indian Express, she started experimenting with short plays.  Across The Border, a one-act Play was performed at the Asian Theatre Festival in London, where it won the best actor and best play. Shivaji, a 3-Act play won a national award. Her play Gandhi, was performed off-broadway, with Madhur Jaffrey, as Kasturba. She has written over 30 short plays, all which have been performed in theatres in Bangalore, India.
+<p>On her return to India, in the 1950s she wrote prose and short stories, contributing over 200 feature articles to newspapers and magazines.</p> <p>As the drama critic, for <em>The Indian Express</em>, she started experimenting with short plays.  <em>Across The Border</em>, a one-act play was performed at the <em>Asian Theatre Festival</em> in London, where it won the best actor and best play. <em>Shivaji</em>, a three-act play won the National Award for best play at the Shivaji Chatrapathi celebrations. The award was presented by the then President of India, BD Jatti. Her play <em>Gandhi</em>, published by <em>Writers' Workshop</em>, Calcutta, was performed off-broadway, with Madhur Jaffrey, as Kasturba.</p>
 
-She is listed in the Sahitya Kala Academy’s Whose Who of Indian Writers. </p><p>Prema wrote because she felt she has something to say that readers would like to hear.</p>
-     
+<p>She has written over 30 short plays, all which have been performed in theatres in Bangalore, India.
+
+She is listed in the Sahitya Kala Academy’s <em>Whose Who of Indian Writers.</em> </p>
+
+<p>When asked why she wrote, Prema said: “I write because I am haunted by characters and situations that demand I present them to the world. They often try to take over my life."</p>
+<hr/>     
 <Link href="/literary-contribution"><a><h3>Prema's Literary Contribution</h3></a></Link>
 <Link href="/about"><a><h3>Prema's Story</h3></a></Link>      
 

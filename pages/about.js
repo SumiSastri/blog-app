@@ -1,27 +1,31 @@
 const About = () => {
     return ( <div className="card">
 
-        <h2>Prema Sastri: A short biography</h2>
+        <h2>Prema's story</h2>
 
-<p>From a liberal family of Tamil writers, Prema was inspired by her great-grand uncle, Pandit Natesa Sastri (1859-1906), who translated great works of Tamil literature into English in the 19th century.
+<p>From a liberal family of Tamil writers, Prema was inspired by her paternal great-grand uncle, Pandit Natesa Sastri (1859-1906), who translated great works of Tamil literature into English in the 19th century.
 
-She was a great admirer of her great-grand uncle Angarai T Sadasivam Iyer (1902-1997), who married the music doyen, MS Subalakshmi. Also known as Kalki Sadasivam Iyer, he was a freedom fighter, co-founder of the Tamil magazine Kalki and a well-known film producer and script writer.</p>
+She also admired her maternal great-grand uncle, Angarai T Sadasivam Iyer (1902-1997), who married the music doyen, MS Subalakshmi. Also known as Kalki Sadasivam Iyer, he was a freedom fighter, co-founder of the Tamil magazine <em>Kalki</em> and a well-known film producer and script writer.</p>
 
 <h2>Early years 1930s-1940s</h2>
 
-<p>Prema developed an interest in the arts & literature from a very early age. When she was seven, her mother gave her a pencil and paper to keep her out of mischief.  Prema wrote poems which her mother collected and tied in a blue ribbon. Her first works were published in the children’s page of the local English newspaper in Tamil Nadu.
+<p>Prema developed an interest in the arts & literature from a very early age. When she was seven, her mother gave her a pencil and paper to keep her out of mischief.  Prema wrote poems which her mother collected and tied in a blue ribbon. Her first works were published in the children’s page of the local English newspaper in Tamil Nadu.</p>
 
-As a child growing up during the Second World War and the Partition of India, she was deeply impacted by the suffering and cruelty she witnessed and stopped writing poetry when the family moved from Tamil Nadu to West Bengal.
+<p>As a child growing up during the Second World War and the Partition of India, she was deeply impacted by the suffering and cruelty she witnessed and stopped writing poetry when the family moved from Tamil Nadu to West Bengal.
 
-Her father, Angari V Natarajan Iyer (V.N. Rajan), was a British Civil Servant, when a nascent India was being formed. Her mother Jaya  Lakshmi, was an active social worker, socialite and actress showing great fortitude in tough times.
+Her father, Angari Viswanathan Iyer (V.N. Rajan), was a British Civil Servant, when a nascent India was being formed. Her mother Jaya  Lakshmi, was an active social worker, socialite and actress showing great fortitude in tough times.
 
-The family moved from Dharapuram, Coimbatore where she was born, to Madras (Chennai). Her memories of the Second World War, when it broke out, was of great joy as all the children at Church Park Convent were given the day off and asked to go home. It was only later, when her father was posted to West Bengal, that she understood the gravity of the situation.
+The family moved from Dharapuram, Coimbatore where she was born, to Madras (Chennai).</p> 
 
-In the run up to the Partition of India, the family narrowly escaped being slaughtered on two different occasions. Prema, and her sister Hima, were sent to a British private school, Dow Hill in Keursong, Darjeeling.
+<p>Her initial memory of the Second World War, when it broke out, was of great joy as all the children at <em>Church Park Convent</em> were given the day off and asked to go home. It was only later, when her father was posted to West Bengal, that she understood the gravity of the situation.
 
-Witnessing famine in Bengal, while the family lived in the lap of luxury in Calcutta, East Bengal, left a life-long scar. Prema was always concerned that guests who came to her house were well fed and was troubled by life’s great contradictions.
+</p><p>In the run up to the Partition of India, the family narrowly escaped being slaughtered on two different occasions. Prema, and her sister Hima, were sent to a British private school, <em>Dow Hill</em> in Keursong, Darjeeling.
 
-In the twilight years of the British Raj,  Prema wrote her Senior Cambridge exams coming first in the Commonwealth for English.</p>
+</p> <p>Prema lived in Calcutta continuing her education at <em>Loretto Convent</em>. Witnessing famine in Bengal, while the family lived in the lap of luxury, left a life-long scar. Prema was always concerned that guests who came to her house were well fed and was troubled by life’s great contradictions.
+
+</p> 
+
+<p>In the twilight years of the British Raj,  Prema wrote her Senior Cambridge exams coming first in the Commonwealth for English. She answered only one question, and expected to fail. </p> <p>The question she answered was which of Shakespeare's characters was the most intriguing and why. Prema chose Cassius, from Shakespeare's <em>Julius Ceasar</em>, arguing that he was one true to his beliefs. Unlike Brutus, he stood for what he believed in and did not betray his convictions.</p>
 
 <h2>A passion for writing 1950s to 2000</h2>
 
