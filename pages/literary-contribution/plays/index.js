@@ -7,22 +7,21 @@ export const getStaticProps = async () => {
   const responseData = await response.json();
 
   return {
-    props: { shortStories: responseData },
+    props: { plays: responseData },
   };
 };
 
-const ShortStories = ({ shortStories }) => {
+const Plays = ({ plays }) => {
   return (
     <div className='card'>
       <h3>List of Prema Sastri's Short Stories</h3>
 
-      {shortStories.map(story => (
-        <Link href={`/literary-contribution/short-stories/${story.id}`} key={story.id}>
-          <a className={styles.story}><h4>{story.title}</h4></a>
-      
+      {plays.map(play => (
+        <Link href={`/literary-contribution/plays/${play.id}`} key={play.id}>
+          <a className={styles.story}><h4>{play.title}</h4></a>
         </Link>
       ))}
     </div>
   );
 };
-export default ShortStories;
+export default Plays;

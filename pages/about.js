@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 const About = () => {
     return ( <div className="card">
 
@@ -57,7 +59,10 @@ She became an active member of a local book club and writers group, encouraging 
 
 In July 2017, after several minor falls and a major hip-replacement, Prema was bed-ridden and left her friends and family.  Acutely aware that there was a shortage of bodies for young medical students, Prema, who was no believer of rites and rituals requested that her mortal remains were to be donated to St. John’s hospital for young students to practice surgery.</p>
 
+<h2>Literary Legacy</h2>
 <p>Prema may have stopped writing but her legacy as a pioneer of Indian writing in English, especially in the genre of short-story writing and plays lives on as does her call Indian writers in English: “You are unique and have something to give the world. Keep writing.”</p>
+<Link href="/literary-contribution"><a><h3>Prema's Literary Contribution</h3></a></Link>
+    
     </div> )
     }
 
