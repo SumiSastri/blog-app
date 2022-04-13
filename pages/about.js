@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 
 const About = () => {
     return ( <div className="card">
@@ -28,9 +29,9 @@ The family moved from Dharapuram, Coimbatore where she was born, to Madras (Chen
 </p> 
 
 <p>In the twilight years of the British Raj,  Prema wrote her Senior Cambridge exams coming first in the Commonwealth for English. She answered only one question, and expected to fail. </p> <p>The question she answered was which of Shakespeare's characters was the most intriguing and why. Prema chose Cassius, from Shakespeare's <em>Julius Ceasar</em>, arguing that he was one true to his beliefs. Unlike Brutus, he stood for what he believed in and did not betray his convictions.</p>
-
+<div className="card">
 <h2>A passion for writing 1950s to 2000</h2>
-
+<Image style={{padding:"5px", margin: "10px"}}height={150} width={125} alt="The author Prema Sastri at Chattam College, Pittsburg, Pennsylvania" src="/premasastrichattamcollege1950.jpeg"/>
 <p>Her father was now posted back to the south of India.  Prema continued her studies in Queen Mary’s College, Madras and completed her first degree in Economics as one of the few women who attended the course in Government Arts College, Coimbatore.
 
 In her final year of college, she won a scholarship to study in the United States.
@@ -48,7 +49,7 @@ In the early Seventies, her interest in the theatre grew and she staged her firs
 She continued to write short fiction and historical dramas in the Eighties when her three children had all left home.
 
 In the Nineties, as an empty nester,  Prema continued writing and directing short-plays but developed a distinct interest in communications and business studies. She studied once again – a Masters in Business Administration starting up her own coaching academy.  She used her interest in theatre developing role playing  scenarios for leadership coaching. A young Rahul Dravid, the former Indian cricket captain, was one of her early mentees.</p>
-
+</div>
 <h2>Late years 2000 to 2017</h2>
 
 <p>When her husband passed away in the year 2000,  Prema gave up writing, coaching and spent a significant amount of time with local charitable trusts and foundations.

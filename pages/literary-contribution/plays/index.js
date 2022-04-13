@@ -14,7 +14,7 @@ export const getStaticProps = async () => {
 const Plays = ({ plays }) => {
   return (
     <div className='card'>
-      <h3>List of Prema Sastri's Short Stories</h3>
+      <h2>List of Prema Sastri's Plays</h2>
 
       {plays.map(play => (
         <Link href={`/literary-contribution/plays/${play.id}`} key={play.id}>

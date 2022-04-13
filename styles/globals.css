@@ -9,21 +9,34 @@
 body {
   background: #f2f2f2;
   color: #333;
-  font-family: "Nunito";
-  line-height: "2em";
+  font-family: "Times New Roman";
+  line-height: "3em";
+  
+}
+h1, h2{
+  color: darkmagenta;
+}
+
+h3, h4{
+  color: darkgoldenrod
+}
+
+h5{
+  color:maroon
+}
+
+h6{
+color:rebeccapurple
 }
 
 a {
-  color: darkorchid;
+  color: darkslateblue;
   text-decoration: none;
-}
-
-h1{
-  color: darkmagenta;
 }
 
 p{
   padding: 1em;
+  line-height: 2em;
 }
 
 
@@ -31,7 +44,7 @@ p{
   cursor: pointer;
   background-color: transparent;
   perspective: 1000px;
-  border-bottom: 1px #fff solid;
+  border: 1px lightcoral;
   padding: 1em;
   margin: 1em;
 }
