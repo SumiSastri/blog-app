@@ -31,7 +31,7 @@ The family moved from Dharapuram, Coimbatore where she was born, to Madras (Chen
 <p>In the twilight years of the British Raj,  Prema wrote her Senior Cambridge exams coming first in the Commonwealth for English. She answered only one question, and expected to fail. </p> <p>The question she answered was which of Shakespeare's characters was the most intriguing and why. Prema chose Cassius, from Shakespeare's <em>Julius Ceasar</em>, arguing that he was one true to his beliefs. Unlike Brutus, he stood for what he believed in and did not betray his convictions.</p>
 <div className="card">
 <h2>A passion for writing 1950s to 2000</h2>
-<Image style={{padding:"5px", margin: "10px"}}height={150} width={125} alt="The author Prema Sastri at Chattam College, Pittsburg, Pennsylvania" src="/premasastrichattamcollege1950.jpeg"/>
+<Image height={150} width={125} alt="The author Prema Sastri at Chattam College, Pittsburg, Pennsylvania" src="/premasastrichattamcollege1950.jpeg"/>
 <p>Her father was now posted back to the south of India.  Prema continued her studies in Queen Mary’s College, Madras and completed her first degree in Economics as one of the few women who attended the course in Government Arts College, Coimbatore.
 
 In her final year of college, she won a scholarship to study in the United States.

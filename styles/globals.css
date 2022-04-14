@@ -39,7 +39,6 @@ p{
   line-height: 2em;
 }
 
-
 .card {
   cursor: pointer;
   background-color: transparent;
@@ -48,6 +47,58 @@ p{
   padding: 1em;
   margin: 1em;
 }
+.card-header {
+  padding: 0;
+  position: relative;
+  height: 70%;
+}
+.card-img {
+  width: 10%;
+  height: 10%;
+}
+
+.card2 {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.card3 {
+  width: 18rem;
+  height: 22.5rem;
+  text-align: center;
+  color: rgb(97, 8, 97);
+  margin-bottom: 2rem;
+  box-shadow: 0.1rem 0.1rem 1rem rgba(0, 0, 0, 0.294);
+}
+.card3 h3 {
+  margin: 0.5rem 0;
+}
+
+.card3 p {
+  margin: 0;
+}
+
+.heart {
+  border-radius: 100%;
+  background-color: rgba(255, 255, 255, 0.678);
+  width: 3rem;
+  height: 3rem;
+  z-index: 100;
+  position: absolute;
+  bottom: 78%;
+  left: 78%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+}
+
+.heart img {
+  width: 1.75rem;
+}
+
 
 nav {
  margin: 1em;
@@ -61,7 +112,6 @@ nav a {
   margin-left: 12px;
 }
 
-
 footer {
   display: block;
   text-align: center;
@@ -69,4 +119,15 @@ footer {
   margin-top: 60px;
   color: #777;
   border-top: 1px solid #eaeaea;
+}
+
+button {
+  padding: 2px 16px;
+  background: #fff;
+  display: block;
+  margin: 20px 10px;
+  border-radius: 2%;
+}
+button:hover {
+  border-left: 8px solid darkviolet;
 }

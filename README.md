@@ -1,8 +1,6 @@
 # Blog-App:
 
-
-
-
+This is a NextJS app with Stripe integration
 
 ## Scaffolding
 This project is bootstrapped with CNA - create-next-app. 

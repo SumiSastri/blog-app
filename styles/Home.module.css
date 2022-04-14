@@ -90,6 +90,13 @@
   color: darkgoldenrod;
 }
 
+.card2 {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;

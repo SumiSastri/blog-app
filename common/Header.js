@@ -5,7 +5,7 @@ const Header = () => {
     return ( 
         <nav>
             {/* <img  alt="" src="../premasastrilogo.jpeg"/> */}
-            <Image style={{padding:"5px", margin: "10px"}}height={225} width={225} alt="" src="/premasastrilogo.jpeg"/>
+            <Image height={70} width={70} alt="" src="/premasastrilogo.jpeg"/>
             <h1>Prema Sastri (1932-2017)</h1>
               <h3>Pioneer of Indian writing in English</h3>  
             <Link href="/"><a>Home</a></Link>

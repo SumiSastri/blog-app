@@ -9,6 +9,7 @@ const LiteraryContribution = () => {
         <div >    
 <Link href="literary-contribution/short-stories"><a><h3>Short Stories</h3></a></Link>
 <Link href="literary-contribution/plays"><a><h3>Plays</h3></a></Link>
+<Link href="literary-contribution/childrens-stories"><a><h3>Children's Stories</h3></a></Link>
 </div> 
     </div> );
 }
