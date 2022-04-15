@@ -3,9 +3,6 @@ import Link from "next/link";
 
 import styles from "../styles/Home.module.css";
 
-import NavBar from "../common/Header";
-import Footer from "../common/Footer";
-
 export default function Home() {
   return (
     <main>

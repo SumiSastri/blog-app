@@ -3,11 +3,8 @@ import Link from "next/link";
 
 import styles from "../../../styles/Story.module.css";
 import ChildrensStoryCard from "./ChildrensStoryCard";
-import Comments from "./Comments";
-
 
 const ChildrensStories = () => {
-  // set initial state of the component
   const [childrensStories, setChildrensStories] = useState([]);
 
   const fetchChildrensStories = async () => {
@@ -29,8 +26,7 @@ const ChildrensStories = () => {
             href={`/literary-contribution/childrens-stories/${childrensStory.id}`}
           >
             <a className={styles.story}>
-              <ChildrensStoryCard name={childrensStory.name} />
-              <Comments />
+              <ChildrensStoryCard  id={childrensStory.id} name={childrensStory.name} />
             </a>
           </Link>
         </div>

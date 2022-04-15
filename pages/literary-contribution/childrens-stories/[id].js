@@ -1,5 +1,4 @@
 /* eslint-disable @next/next/no-img-element */
-
 import { useRouter } from "next/router";
 import Link from "next/link";
 import { useEffect, useState } from "react";
