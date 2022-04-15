@@ -14,13 +14,3 @@ export default function handler(req, res) {
   // res.status()
   // res.end() closes the response stream
 }
-
-// fetch ('http://localhost:3000/api/hello', {method: 'POST', 
-// headers {
-//   'Content-Type': 'application/json'
-// },
-// body:  JSON.stringify({
-//   greeting: "Hi',
-//   userType: 'admin',
-//   password: 1234
-// })

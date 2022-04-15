@@ -43,10 +43,10 @@ p{
   cursor: pointer;
   background-color: transparent;
   perspective: 1000px;
-  border: 1px lightcoral;
   padding: 1em;
   margin: 1em;
 }
+
 .card-header {
   padding: 0;
   position: relative;
@@ -127,7 +127,19 @@ button {
   display: block;
   margin: 20px 10px;
   border-radius: 2%;
+  width: 20%
 }
+
 button:hover {
   border-left: 8px solid darkviolet;
+}
+input {
+  background: wheat;
+  height: 3em;
+  width: 50%;
+}
+.input2 {
+  background: wheat;
+  height: 5em;
+  width: 50%;
 }
