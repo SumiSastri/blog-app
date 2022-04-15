@@ -1,8 +1,10 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 
-import ChildrensStoryCard from "./ChildrensStoryCard";
 import styles from "../../../styles/Story.module.css";
+import ChildrensStoryCard from "./ChildrensStoryCard";
+import Comments from "./Comments";
+
 
 const ChildrensStories = () => {
   // set initial state of the component
@@ -28,6 +30,7 @@ const ChildrensStories = () => {
           >
             <a className={styles.story}>
               <ChildrensStoryCard name={childrensStory.name} />
+              <Comments />
             </a>
           </Link>
         </div>
