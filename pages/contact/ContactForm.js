@@ -2,16 +2,16 @@ import { useState } from "react";
 
 const ContactForm = () => {
   const [name, setName] = useState("");
-  const [comment, setComment] = useState("");
+  const [enquiry, setEnquiry] = useState("");
 
   const handleSubmit = async () => {
-    const response = await fetch("/api/comments", {
+    const response = await fetch("/api/enquiries", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        comment: comment,
+        enquiry: enquiry,
         name: name,
       })
     });
@@ -33,8 +33,8 @@ const ContactForm = () => {
         <input
           className='input2'
           type='text'
-          value={comment}
-          onChange={(event) => setComment(event.target.value)}
+          value={enquiry}
+          onChange={(event) => setEnquiry(event.target.value)}
         />
         <button>Send</button>
       </form>

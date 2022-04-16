@@ -143,3 +143,16 @@ input {
   height: 5em;
   width: 50%;
 }
+
+.button2 {
+  padding: 2px 16px;
+  background: lightpink;
+  display: block;
+  margin: 20px 10px;
+  border-radius: 3%;
+  width: 90%
+}
+.button2:hover {
+  border-left: 8px solid darkred;
+  background: lightcoral;
+}
